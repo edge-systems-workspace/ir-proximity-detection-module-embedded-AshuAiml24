@@ -3,7 +3,7 @@
  * @file main.cpp
  * @brief Embedded Obstacle Detection System using IR Sensor
  * @author ASHU PAL
- * @date 2026-02-02
+ * @date 2026-02-06
  *
  * @details
  * Reads digital input from IR sensor
